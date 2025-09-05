@@ -1,1 +1,1 @@
-FODIP Assignment 1 Read an 8 bit image and then apply different image enhancement techniques: (a) Brightness improvement (b) Brightness reduction (c) Thresholding (d) Negative of an image (e) Log transformation (f) Power Law transformation.
+
